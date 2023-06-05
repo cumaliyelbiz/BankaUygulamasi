@@ -10,7 +10,7 @@ Projeyi açtığınızda giriş ekranıyla karşılaşırsınız. Bu sayfadan si
 * Sizlerin kullandığı mobil bankacılık hizmetleri gibi hizmet veren bir uygulama olması amaçlanıyor.(Ziraat Mobil vs..)
 > Bitince tam özellikler yazılacaktır.
 ## Ekran Görüntüleri
-![GirisSayfasi]([(https://github.com/cumaliyelbiz/BankaUygulamasi/blob/main/Proje%20Videosu.mp4)](https://github.com/cumaliyelbiz/BankaUygulamasi/blob/main/Proje%20Videosu.mp4))
+![GirisSayfasi]((https://github.com/cumaliyelbiz/BankaUygulamasi/blob/main/Proje%20Videosu.mp4))
 
 
 > Yapıldıkça Eklenecektir...
