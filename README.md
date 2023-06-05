@@ -1,16 +1,21 @@
-# bankauygulamasi
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/uelKf0-p)
+# Banka Uygulaması
+Banka işlemlerini yapmak için flutter(dart) dili ile yapılmış mobil bankacılık uygulamasıdır.
+## Proje Kullanım
+Projeyi açtığınızda giriş ekranıyla karşılaşırsınız. Bu sayfadan sisteme kayıt olabilirsiniz. Giriş/kayıt yaptıktan sonra sizi ana menüye atacaktır. Ana Sayfadan sol slider menü ile yapmak istediğiniz işlemlerin menüsünü seçebilirsiniz.
+## Proje Kurulum
+* Uygulama dosyasını indirip düzenleyebilirsiniz.
+* Uygulama Kurulum klasöründen mobil uygulamanız için apk dosyasını indirip kullanabilirsiniz.
+## Projenin Amacı
+* Sizlerin kullandığı mobil bankacılık hizmetleri gibi hizmet veren bir uygulama olması amaçlanıyor.(Ziraat Mobil vs..)
+> Bitince tam özellikler yazılacaktır.
+## Ekran Görüntüleri
+![GirisSayfasi](https://github.com/Iskenderun-Technical-University/donem-projesi-cumaliyelbiz/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/giris_sayfasi.jpg)
 
-Banka Uygulaması
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Yapıldıkça Eklenecektir...
+## Veritabanı
+- Projemizde Google şirketinin Firebase veritabanını kullanıyoruz.
+![Veritabanı](https://github.com/Iskenderun-Technical-University/donem-projesi-cumaliyelbiz/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/veritaban%C4%B1.PNG)
+![Veritabanı](https://github.com/Iskenderun-Technical-University/donem-projesi-cumaliyelbiz/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/veritaban%C4%B12.PNG)
+![Veritabanı](https://github.com/Iskenderun-Technical-University/donem-projesi-cumaliyelbiz/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/veritaban%C4%B13.PNG)
