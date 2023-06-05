@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "113199518688",
+    "project_id": "banka-uygulamasi",
+    "storage_bucket": "banka-uygulamasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113199518688:android:74f378acfd29cc9c771185",
+        "android_client_info": {
+          "package_name": "com.bankapp.bankauygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113199518688-e7fl22skev5ehrqlegdhserjrbq45cbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bankapp.bankauygulamasi",
+            "certificate_hash": "2371813a9f6e41c5c847209e7a2a56ea161a60a5"
+          }
+        },
+        {
+          "client_id": "113199518688-uo5h1sfcrap4bp6g1bu658jp35oeoucj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9XCuE6bk7mcqRKp2zLJuQh1mZQW-RyXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113199518688-uo5h1sfcrap4bp6g1bu658jp35oeoucj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
