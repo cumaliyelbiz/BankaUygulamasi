@@ -10,7 +10,7 @@ Projeyi açtığınızda giriş ekranıyla karşılaşırsınız. Bu sayfadan si
 * Sizlerin kullandığı mobil bankacılık hizmetleri gibi hizmet veren bir uygulama olması amaçlanıyor.(Ziraat Mobil vs..)
 > Bitince tam özellikler yazılacaktır.
 ## Ekran Görüntüleri
-![GirisSayfasi]([(https://drive.google.com/file/d/1wP0jI0tdtqLjqt5abLy_7NUpIuqjRtYX/view](https://drive.google.com/file/d/1wP0jI0tdtqLjqt5abLy_7NUpIuqjRtYX/view)))
+https://drive.google.com/file/d/1wP0jI0tdtqLjqt5abLy_7NUpIuqjRtYX/view
 
 
 > Yapıldıkça Eklenecektir...
